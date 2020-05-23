@@ -17,7 +17,7 @@ JDiffraction uses [JTransforms](https://sites.google.com/site/piotrwendykier/sof
 ## Contact
 
 - Pablo Piedrahita-Quintero ([jppiedrahitaq@unal.edu.co](mailto:jppiedrahitaq@unal.edu.co))
-- Carlos Trujillo ([catrujila@unal.edu.co](mailto:catrujila@unal.edu.co))
+- Carlos Trujillo ([catrujilla@eafit.edu.co](mailto:catrujilla@eafit.edu.co))
 - Jorge Garcia-Sucerquia ([jigarcia@unal.edu.co](mailto:jigarcia@unal.edu.co))
 
 
